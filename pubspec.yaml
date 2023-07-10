@@ -26,3 +26,13 @@ flutter:
      - assets/icons/
      - assets/fonts/
      - assets/localizations/
+
+  fonts:
+    - family: montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Montserrat-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Montserrat-Bold.ttf
+          weight: 700
